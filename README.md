@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sanjaymehar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+[//]: # (![𝚝𝚛𝚘𝚙𝚑𝚢]&#40;https://github-profile-trophy.vercel.app/?username=sanjaymehar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh&#41;)
 
 
 <!-- https://github.com/ArizArmeidi/awesome-github-profile-readme-templates -->
@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
 ## ⚡ ❤️ Projects:
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaymehar&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sanjaymehar" /> </p>
 -->
 
 ## 📫 How to reach me: 
@@ -33,6 +31,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/sanjaymehar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sanjaymehar" height="25" width="35" /></a>
 </p>
 
+<p align='center' style='font-size: 16px;'>
+    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
+</p>
 
 ### Languages and Tools:
 <div align="left">
@@ -88,13 +89,14 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+ <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
@@ -128,12 +130,15 @@ Here are some ideas to get you started:
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br/>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaymehar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaymehar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaymehar&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="sanjaymehar" />
 </p>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymehar&theme=gruvbox" alt="sanjaymehar" />
+</p>
+
 </details>
 <br/>
 
 <h4 align="center">
+<img src="./assets/dev-working_rounded.gif" alt="Hello World" />
